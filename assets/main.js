@@ -1,4 +1,4 @@
-(function () {
+(() => {
     const SCREEN_WIDTH = window.innerWidth;
     const SCREEN_HEIGHT = window.innerHeight;
     const container = document.getElementById('canvas-container');
